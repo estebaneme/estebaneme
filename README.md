@@ -45,15 +45,7 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 ---
 
-## 🔥 Racha de contribuciones
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=estebaneme&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🌐 Contacto
 
