@@ -49,7 +49,7 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=estebaneme&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=estebaneme&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
