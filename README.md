@@ -55,16 +55,6 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 ---
 
-## 🌌 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=estebaneme&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 ## 🌐 Contacto
 
 <p align="center">
