@@ -69,7 +69,7 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 <p align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/estebaneme">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
