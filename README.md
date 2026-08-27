@@ -2,7 +2,7 @@
 
 # ⚡ EstebanEme
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Desarrollador+en+formaci%C3%B3n;Log%C3%ADstica+y+Tecnolog%C3%ADa;Python+%7C+Java+%7C+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Sobreviviendo" alt="Typing SVG" />
 
 </div>
 
