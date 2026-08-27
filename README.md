@@ -23,7 +23,7 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías que me gustaria manejar
 
 <p align="center">
 
@@ -33,13 +33,13 @@ Me interesa combinar la **tecnología con la logística internacional**, desarro
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Trabajo Actual
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=estebaneme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://www.zofri.cl/_next/static/media/logoWhite.2745bd88.svg"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://puertonoa.com/wp-content/uploads/2025/08/Logotype-1.png#333"/>
 
 </div>
 
