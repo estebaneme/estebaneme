@@ -9,7 +9,7 @@
 ---
 
 ## 💙 Sobre mí
-<p align="center">
+
 ```text
 
 ╔══════════════════════════════════════════════╗
@@ -18,7 +18,7 @@
 ║  Enfoque: Desarrollo + Logística             ║
 ║  Aprendiendo: un poco de todo                ║
 ╚══════════════════════════════════════════════╝
-</p>
+
 ```
 
 Me interesa combinar la **tecnología con la logística internacional**, desarrollando herramientas que automaticen procesos y mejoren la gestión operativa.
